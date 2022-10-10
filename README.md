@@ -1,2 +1,2 @@
 # python_masalalar
-python 0 dan o'rganamiz
+Assalom alaykum hammaga bu repezitoriyada pythonda masalalar yechishni o'rganamiz
